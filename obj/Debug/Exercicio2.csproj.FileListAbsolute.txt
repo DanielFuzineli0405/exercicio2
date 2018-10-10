@@ -1,0 +1,18 @@
+I:\Programação e algoritmos\Exercicios 1209 (WHILE)\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+I:\Programação e algoritmos\Exercicios 1209 (WHILE)\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+I:\Programação e algoritmos\Exercicios 1209 (WHILE)\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+I:\Programação e algoritmos\Exercicios 1209 (WHILE)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojResolveAssemblyReference.cache
+I:\Programação e algoritmos\Exercicios 1209 (WHILE)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+I:\Programação e algoritmos\Exercicios 1209 (WHILE)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
+F:\Exercicios 1209 (WHILE)\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+F:\Exercicios 1209 (WHILE)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+F:\Exercicios 1209 (WHILE)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
+F:\Exercicios 1209 (WHILE)\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+F:\Exercicios 1209 (WHILE)\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+F:\Exercicios 1209 (WHILE)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojResolveAssemblyReference.cache
+I:\Val\Exercicios enquanto 1\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+I:\Val\Exercicios enquanto 1\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+I:\Val\Exercicios enquanto 1\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
+I:\Val\Exercicios enquanto 1\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+I:\Val\Exercicios enquanto 1\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+I:\Val\Exercicios enquanto 1\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojResolveAssemblyReference.cache
